@@ -10,3 +10,11 @@ namespace ProGitForProgrammers
 			}
 		}
 }
+
+
+namespace ProGitForProgrammers
+{
+	public class Calculator
+	{
+	}
+}
